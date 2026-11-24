@@ -26,7 +26,7 @@
 | **Windows** | [Microsoft Store](https://apps.microsoft.com/detail/9NTLPMTCZ6K2), or the [direct installer](https://seosage.co/download/) |
 | **Homebrew** (Mac) | `brew install --cask seosageapp/tap/seosage` |
 
-<p align="center"><img src="assets/install.png" alt="Install, update and remove SEOSage with Homebrew" width="720"></p>
+<p align="center"><img src="assets/install-homebrew.png" alt="Install, update and remove SEOSage with Homebrew" width="720"></p>
 
 The Homebrew install file lives in [SEOSageApp/homebrew-tap](https://github.com/SEOSageApp/homebrew-tap).
 
